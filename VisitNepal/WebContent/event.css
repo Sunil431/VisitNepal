@@ -1,0 +1,14 @@
+@charset "UTF-8";
+body{
+	background-image: none;
+	background-repeat: no-repeat;
+ background-color: moon;
+}
+h1{
+	color: black;
+  text-align: center;
+  font-size: 50px;
+  background-color: lightblue;
+  
+  
+}

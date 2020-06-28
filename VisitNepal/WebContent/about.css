@@ -1,0 +1,19 @@
+@charset "UTF-8";
+h1{
+color: white;
+	background-color:blue;
+    font-style: oblique;
+    opacity:.14;
+    text-align: center;
+    font-family: myFirstFont;
+		
+	
+	
+}
+
+body{
+	background-image: url("j.jpg");
+ background-color: #cccccc;
+ background size: center;
+ 
+}

@@ -1,0 +1,97 @@
+@charset "UTF-8";
+
+@charset "UTF-8";
+.headerstyle{
+	background-color:none;
+	
+	
+}
+h1{
+	color: green;
+	background-color:none;
+    font-style: italic;
+   
+	
+}
+h2{
+	color: black;
+	text-align: center;
+	font-variant: small-caps;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: large;
+	font-size: 70px;
+	
+}
+
+.hstyle{
+	color: #ead13b;
+	display:horizontal;
+}
+
+div{
+	font-size: 40px;
+}
+
+.removelisticon{
+	list-style-type: none;
+}
+
+ul{
+	list-style-type:none;
+	border: 2 px red;
+	margin: 2 px;
+	float:left;
+	width: 200px;
+	display: inline;
+	background-color:black;
+	
+	
+}
+
+slideshow{
+	
+}
+fade{
+	position:relative;
+	animation name:sunil;
+	animation-duration:6s;
+	
+	
+}
+fade img{
+	float:left;
+}
+keyframes sunil{
+	from{
+	left:0px;
+	}
+	to {
+	left:-700px;
+	}
+}
+
+li{
+	display: inline;
+	padding: 10px;
+	text-align: center;
+	background-color:cover;
+	opacity:.8;
+	order-button: 
+	
+	
+}
+
+body{
+	background: url("pp.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	
+	
+}
+
+	
+slideshow{
+	opacity:.8;
+}
